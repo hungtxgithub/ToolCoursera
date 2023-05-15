@@ -1,0 +1,88 @@
+[
+  {
+    "Question": "True or false: managers cannot be leaders, and leaders cannot be managers.",
+    "Type": 0,
+    "Answers": [
+      "False"
+    ]
+  },
+  {
+    "Question": "Why is job analysis an important process?",
+    "Type": 0,
+    "Answers": [
+      "Because it puts work tasks together into sensible jobs and identifies job requirements that serve as the basis for hiring employees."
+    ]
+  },
+  {
+    "Question": "Which best describes the foundational assumptions of Taylorism, also known as scientific management?",
+    "Type": 0,
+    "Answers": [
+      "Workers want to earn income in the most efficient way possible, but it is managers who best know how to structure work tasks to fulfill this goal."
+    ]
+  },
+  {
+    "Question": "An HR strategy that focuses on minimizing labor costs and strictly supervising workers is commonly called a ____ road strategy.  ",
+    "Type": 2,
+    "Answers": [
+      "low"
+    ]
+  },
+  {
+    "Question": "An HR strategy that emphasizes employee engagement and discretion can be summed up by which phrase?",
+    "Type": 0,
+    "Answers": [
+      "\"If you don't like it, let's talk about it.\""
+    ]
+  },
+  {
+    "Question": "An organization's strategy for managing people is determined...",
+    "Type": 0,
+    "Answers": [
+      "Partly by a combination of external factors (such as competition), internal factors (such as business strategy), but not completely because organizations have choices about how to manage people."
+    ]
+  },
+  {
+    "Question": "True or false: In selecting a personal managerial style, managers should only pay attention to their own strengths and weakness, not the situation or the needs of employees. ",
+    "Type": 0,
+    "Answers": [
+      "False"
+    ]
+  },
+  {
+    "Question": "Which is the single-best personal managerial style?",
+    "Type": 0,
+    "Answers": [
+      "None of the above because there is no single-best style that fits with all situations."
+    ]
+  },
+  {
+    "Question": "Economists say that labor is a derived demand. Why is this concept important for managers to understand?",
+    "Type": 0,
+    "Answers": [
+      "Because whatever affects demand for an organization's product or service can affect strategies, policies, and tactics for managing people."
+    ]
+  },
+  {
+    "Question": "Which of the following statements are true? (you must correctly check all that apply)",
+    "Type": 1,
+    "Answers": [
+      "An organizational strategy based on low-cost leadership is typically supported by an HR strategy that tries to contain labor expenses and drive workers.",
+      "An organizational strategy based on unique goods or services is typically supported by an HR strategy that tries to develop, reward, and engage workers.",
+      "An organizational strategy does not completely determine an organization's HR strategy. In other words, organizations with any type of business strategy can choose an HR strategy that develops, rewards, and engages employees."
+    ]
+  },
+  {
+    "Question": "Which of the following beliefs underlies high-road human resources strategies?",
+    "Type": 0,
+    "Answers": [
+      "The interests of an organization and its employees can be aligned."
+    ]
+  },
+  {
+    "Question": "Which of the following beliefs typically underlies low-road human resources strategies?",
+    "Type": 0,
+    "Answers": [
+      "A business serves society best by satisfying market demand for its goods and services and providing high financial returns for shareholders."
+    ]
+  }
+]

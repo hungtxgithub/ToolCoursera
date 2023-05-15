@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UQe+9kBCKb24CGfmV6v8CPVLAtS85Ha6ZGH4DcF6P1XZcZsxom027uuku4phNjvG2oo5DHTHqOt656UuONhcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NTH\\Desktop\\ToolCoursera\\HRM201c\\HRM201c\\HRM201c.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NTH\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\NTH\\.nuget\\packages\\selenium.support\\4.9.1\\selenium.support.4.9.1.nupkg.sha512",
+    "C:\\Users\\NTH\\.nuget\\packages\\selenium.webdriver\\4.9.1\\selenium.webdriver.4.9.1.nupkg.sha512",
+    "C:\\Users\\NTH\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
